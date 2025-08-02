@@ -1,0 +1,9 @@
+This is a test file to see if the spellcheck is working correctly. If it is, it should print the following incorrect words:
+
+wei
+opfe
+weoing
+wo;eibt
+wpegj
+
+And it should not print any others.
